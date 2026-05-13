@@ -1,4 +1,4 @@
-# Multi-Agent System for Statistical Data Analysis and Clinical Trials 
+# Multi-Agent System for Biostatistical Data Analysis
 
 **By: Harshavardan Yuvaraj and Dylan Girrens**
 
