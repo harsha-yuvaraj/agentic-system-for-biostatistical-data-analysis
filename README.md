@@ -2,6 +2,8 @@
 
 **By: Harshavardan Yuvaraj and Dylan Girrens**
 
+Read our paper [here](https://drive.google.com/file/d/1aNdoBiOHZLhbDMAr2-inDcU5qWIDLXRg/view?usp=drive_link).
+
 ## Clone this repository:
 ```bash
 git clone git@github.com:harsha-yuvaraj/usf-agentic-ai-project.git
